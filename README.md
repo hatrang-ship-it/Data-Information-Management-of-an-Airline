@@ -25,4 +25,4 @@
 * [cite_start]**Booking & Flight**: [Một-Nhiều] - Mỗi lượt đặt chỗ có hiệu lực trên một chuyến bay cụ thể[cite: 34, 35, 36].
 * [cite_start]**Booking & Service_Type**: [Nhiều-Nhiều] - Thông qua bảng `Booking_service`[cite: 37, 38, 39].
 
-![Sơ đồ ERD của hệ thống] (https://github.com/hatrang-ship-it/Data-Information-Management-of-an-Airline/blob/b247bdc4d87d907d9b45b025ed8b885d3e619432/ERD%20Framework.png)
+![Sơ đồ ERD của hệ thống] (ERD Framework.png)
